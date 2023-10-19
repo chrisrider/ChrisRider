@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently a research associate at @COERDUBC in the @PollutionLab studying Glucocorticoids, AirPollution and effects in lung diseases e.g. Asthma & Chronic Obstructive Pulmonary Disease (COPD). 
-- 🌱 I’m currently learning more about how air pollution affects DNA methylation, gene expression and ultimately lung function, and symptoms. 
+- 🔭 I am a research associate at @COERDUBC in the @PollutionLab studying Glucocorticoids, AirPollution and effects in lung diseases e.g. Asthma & Chronic Obstructive Pulmonary Disease (COPD). 
+- 🌱 I learn how air pollution affects DNA methylation, gene expression and ultimately lung function, and symptoms. 
 - 👯 I’m looking to collaborate on projects related to air pollution and relevant data analysis or statistics, such as mixed-effects models. 
 - 💬 Ask me about air pollution, controlled human exposure studies and the associated data analysis. 
 - 📫 How to reach me: Here on GitHub, on Twitter/X @ChrisFRider or at chrisfrider.com
